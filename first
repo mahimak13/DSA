@@ -1,4 +1,4 @@
-//code to find the largest element in the array
+//optimal code to find the largest element in the array
 
 #include <bits/stdc++.h> 
 int largestElement(vector<int> &arr, int n) {
